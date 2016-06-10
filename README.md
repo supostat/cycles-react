@@ -1,24 +1,17 @@
-# Redux DevTools todomvc example
+# Cycles Redux-React boilerplate
 
-## Running Example
+## Running Project
 
 First, clone the project:
 
 ```
-git clone https://github.com/gaearon/redux-devtools.git
+https://github.com/supostat/cycles-react.git
 ```
 
-Then install the dependencies in the root folder:
+Then install the dependencies:
 
 ```
-cd redux-devtools
-npm install
-```
-
-Install the dependencies in the example folder:
-
-```
-cd examples/todomvc
+cd cycles
 npm install
 ```
 
